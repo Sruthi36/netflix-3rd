@@ -1,0 +1,103 @@
+.logo {
+    height: 60px;
+}
+
+.language {
+    border-width: 1px;
+    background-color: black;
+    color: white;
+    border-color: whitesmoke;
+    padding: 7px;
+    border-radius: 8px;
+    height: 50px;
+}
+
+.sign-in {
+    background-color: red;
+    border-width: 0px;
+    border-radius: 8px;
+    padding: 7px;
+    color: white;
+    height: 50px;
+}
+
+.home-page {
+    background-image: url("https://www.okynemedialab.com/wp-content/uploads/2019/11/netflix-background-50-Black-1080x608.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-line {
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.home-para {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.mail-input {
+    margin-top: 10px;
+    height: 67px;
+    width: 600px;
+    background-color: black;
+    border-color: whitesmoke;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 6px;
+    font-size: 28px;
+    padding-left: 15px;
+    color: rgb(211, 211, 217);
+    font-weight: 700;
+}
+
+.btn {
+    height: 60px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.nxt-page {
+    background-color: black;
+    text-align: center;
+    height: 100vh;
+}
+
+.page-heading {
+    font-size: 45px;
+    font-weight: 900;
+    color: white;
+    text-align: left;
+}
+
+.page-paragraph {
+    color: white;
+    font-size: 25px;
+    text-align: left;
+}
+
+.last-page {
+    background-color: black;
+    text-align: center;
+}
+
+.question-card {
+    width: 90vw;
+    background-color: #262626;
+}
+
+.questions {
+    text-align: left;
+    color: white;
+    font-size: 35px;
+}
+
+.contact {
+    font-size: 28px;
+    color: #808080;
+    text-align: left;
+}
